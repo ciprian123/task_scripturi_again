@@ -47,3 +47,5 @@ echo $(pwd)
 ./move.sh 3
 echo $(pwd)
 /home/user/folder1/folder2/
+
+* se lanseaza cu: source ./script5.sh
